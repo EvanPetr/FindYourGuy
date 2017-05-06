@@ -5,5 +5,5 @@ package com.example.threedots.findyourguy.Model;
  */
 
 public class User {
-    public User(){}
+
 }
